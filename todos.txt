@@ -4,3 +4,4 @@ Wash the fish
 Get the car
 Clean the bag
 Fix the drawer
+Master Python!
