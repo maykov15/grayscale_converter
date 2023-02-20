@@ -5,3 +5,5 @@ Get the car
 Clean the bag
 Fix the drawer
 Master Python!
+Test the Edit button
+Ride the bike
